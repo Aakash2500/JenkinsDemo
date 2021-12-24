@@ -17,6 +17,9 @@ public class Demo {
 		
 		System.out.println("Heloooo");
 		
+		Demo d=new Demo();
+		d.m1();
+		d.m3();
 		
 	
 	}
