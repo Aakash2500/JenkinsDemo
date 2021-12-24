@@ -3,6 +3,8 @@ package com.Jenkins_Git;
 public class Demo {
 
 	
+	int i=10;
+	String s="Akash";
 	public void m1()
 	{
 		System.out.println("M1....Method");
@@ -21,6 +23,8 @@ public class Demo {
 		d.m1();
 		d.m3();
 		
+		System.out.println(d.i);
+		System.out.println(d.s);
 	
 	}
 }
